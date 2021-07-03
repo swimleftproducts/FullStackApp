@@ -1,0 +1,27 @@
+{
+  "name": "fullstackcourse",
+  "version": "1.0.0",
+  "description": "Read me:",
+  "main": "index.js",
+  "engines": {
+    "node": "14.16.1",
+    "npm" : "6.14.12"
+  },
+  "scripts": {
+    "start": "node index.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swimleftproducts/FullStackApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swimleftproducts/FullStackApp/issues"
+  },
+  "homepage": "https://github.com/swimleftproducts/FullStackApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
